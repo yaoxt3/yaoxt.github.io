@@ -24,13 +24,13 @@ repository               : "yaoxt3/yaoxt3.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiangtong Yao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Germany"
+  employer         : "Technical University of Munich"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiangtong.yao@tum.de" 
 
   # Academic websites
   academia         : # URL
